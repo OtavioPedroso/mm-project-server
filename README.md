@@ -38,7 +38,7 @@ E por fim inicie o servidor
   npm run dev
 ```
 
-A partir de agr a aplicação estará pronta para ser utilizada!!!
+A partir de agora a aplicação estará pronta para ser utilizada!!!
 
 
 
